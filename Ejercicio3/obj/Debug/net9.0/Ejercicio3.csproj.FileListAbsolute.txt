@@ -1,0 +1,15 @@
+C:\ESTRUCTURA_DATOS\Ejercicio3\bin\Debug\net9.0\Ejercicio3.exe
+C:\ESTRUCTURA_DATOS\Ejercicio3\bin\Debug\net9.0\Ejercicio3.deps.json
+C:\ESTRUCTURA_DATOS\Ejercicio3\bin\Debug\net9.0\Ejercicio3.runtimeconfig.json
+C:\ESTRUCTURA_DATOS\Ejercicio3\bin\Debug\net9.0\Ejercicio3.dll
+C:\ESTRUCTURA_DATOS\Ejercicio3\bin\Debug\net9.0\Ejercicio3.pdb
+C:\ESTRUCTURA_DATOS\Ejercicio3\obj\Debug\net9.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTRUCTURA_DATOS\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\ESTRUCTURA_DATOS\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfo.cs
+C:\ESTRUCTURA_DATOS\Ejercicio3\obj\Debug\net9.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\ESTRUCTURA_DATOS\Ejercicio3\obj\Debug\net9.0\Ejercicio3.sourcelink.json
+C:\ESTRUCTURA_DATOS\Ejercicio3\obj\Debug\net9.0\Ejercicio3.dll
+C:\ESTRUCTURA_DATOS\Ejercicio3\obj\Debug\net9.0\refint\Ejercicio3.dll
+C:\ESTRUCTURA_DATOS\Ejercicio3\obj\Debug\net9.0\Ejercicio3.pdb
+C:\ESTRUCTURA_DATOS\Ejercicio3\obj\Debug\net9.0\Ejercicio3.genruntimeconfig.cache
+C:\ESTRUCTURA_DATOS\Ejercicio3\obj\Debug\net9.0\ref\Ejercicio3.dll
